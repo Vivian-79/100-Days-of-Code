@@ -1,0 +1,31 @@
+# 100-Days-of-Code
+Python learning process
+- [x] Day1. Working with Variables in Python to Manage Data
+- [x] Day2. Understanding Data Types and How to Manipulate Strings
+- [x] Day3. Control Flow and Logic Operators
+- [x] Day4. Randomisation and Python Lists
+- [x] Day5. Python Loops
+- [x] Day6. Python Functions & Karel
+- [x] Day7. Hangman
+- [x] Day8. Function Parameters & Caesar Cipher
+- [x] Day9. Dictionaries, Nesting and Secret Auction
+- [x] Day10. Functions with Outputs
+- [ ] Day11
+- [ ] Day12
+- [ ] Day13
+- [ ] Day14
+- [ ] Day15
+- [ ] Day16
+- [ ] Day17
+- [ ] Day18
+- [ ] Day19
+- [ ] Day20
+- [ ] Day21
+- [ ] Day22
+- [ ] Day23
+- [ ] Day24
+- [ ] Day25
+- [ ] Day26
+- [ ] Day27
+- [ ] Day28
+- [ ] Day29
