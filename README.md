@@ -10,11 +10,11 @@ Python learning process
 - [x] Day8. Function Parameters & Caesar Cipher
 - [x] Day9. Dictionaries, Nesting and Secret Auction
 - [x] Day10. Functions with Outputs
-- [ ] Day11
-- [ ] Day12
-- [ ] Day13
-- [ ] Day14
-- [ ] Day15
+- [x] Day11. The Blackjack Capstone Project
+- [x] Day12. Scope & Number Guessing Game
+- [x] Day13. Debugging: How to Find and Fix Errors in your Code
+- [x] Day14. Higher Lower Games Project
+- [x] Day15. Local Development Environment Setup & the Coffee Machine
 - [ ] Day16
 - [ ] Day17
 - [ ] Day18
