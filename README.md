@@ -15,17 +15,17 @@ Python learning process
 - [x] Day13. Debugging: How to Find and Fix Errors in your Code
 - [x] Day14. Higher Lower Games Project
 - [x] Day15. Local Development Environment Setup & the Coffee Machine
-- [x] Day16
-- [x] Day17
-- [x] Day18
-- [x] Day19
-- [x] Day20
-- [x] Day21
-- [x] Day22
-- [x] Day23
-- [x] Day24
-- [x] Day25
-- [ ] Day26
+- [x] Day16. Object Oriented Programming(OOP)
+- [x] Day17. The Quiz Project & the Benefits of OOP
+- [x] Day18. Turtle & the Graphical User Interface(GUI)
+- [x] Day19. Instances, State and Higher Order Functions
+- [x] Day20. Build the Snake Game Part1: Animation & Coordnates
+- [x] Day21. Build the Snake Game Part2: Inheritance & List Slicing
+- [x] Day22. Build Pong: The Famous Arcade Game
+- [x] Day23. The Turtle Crossing Capstone Project
+- [x] Day24. Files, Directories and Paths
+- [x] Day25. Working with CSV Data and the Pandas Library
+- [x] Day26. List Comprehension and NATO Alphabet
 - [ ] Day27
 - [ ] Day28
 - [ ] Day29
