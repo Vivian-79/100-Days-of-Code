@@ -10,22 +10,93 @@ Python learning process
 - [x] Day8. Function Parameters & Caesar Cipher
 - [x] Day9. Dictionaries, Nesting and Secret Auction
 - [x] Day10. Functions with Outputs
-- [ ] Day11
-- [ ] Day12
-- [ ] Day13
-- [ ] Day14
-- [ ] Day15
-- [ ] Day16
-- [ ] Day17
-- [ ] Day18
-- [ ] Day19
-- [ ] Day20
-- [ ] Day21
-- [ ] Day22
-- [ ] Day23
-- [ ] Day24
-- [ ] Day25
-- [ ] Day26
+- [x] Day11. The Blackjack Capstone Project
+- [x] Day12. Scope & Number Guessing Game
+- [x] Day13. Debugging: How to Find and Fix Errors in your Code
+- [x] Day14. Higher Lower Games Project
+- [x] Day15. Local Development Environment Setup & the Coffee Machine
+- [x] Day16. Object Oriented Programming(OOP)
+- [x] Day17. The Quiz Project & the Benefits of OOP
+- [x] Day18. Turtle & the Graphical User Interface(GUI)
+- [x] Day19. Instances, State and Higher Order Functions
+- [x] Day20. Build the Snake Game Part1: Animation & Coordnates
+- [x] Day21. Build the Snake Game Part2: Inheritance & List Slicing
+- [x] Day22. Build Pong: The Famous Arcade Game
+- [x] Day23. The Turtle Crossing Capstone Project
+- [x] Day24. Files, Directories and Paths
+- [x] Day25. Working with CSV Data and the Pandas Library
+- [x] Day26. List Comprehension and NATO Alphabet
 - [ ] Day27
 - [ ] Day28
 - [ ] Day29
+- [ ] Day30
+- [ ] Day31
+- [ ] Day32
+- [ ] Day33
+- [ ] Day34
+- [ ] Day35
+- [ ] Day36
+- [ ] Day37
+- [ ] Day38
+- [ ] Day39
+- [ ] Day40
+- [ ] Day41
+- [ ] Day42
+- [ ] Day43
+- [ ] Day44
+- [ ] Day45
+- [ ] Day46
+- [ ] Day47
+- [ ] Day48
+- [ ] Day49
+- [ ] Day50
+- [ ] Day51
+- [ ] Day52
+- [ ] Day53
+- [ ] Day54
+- [ ] Day55
+- [ ] Day56
+- [ ] Day57
+- [ ] Day58
+- [ ] Day59
+- [ ] Day60
+- [ ] Day61
+- [ ] Day62
+- [ ] Day63
+- [ ] Day64
+- [ ] Day65
+- [ ] Day66
+- [ ] Day67
+- [ ] Day68
+- [ ] Day69
+- [ ] Day70
+- [ ] Day71
+- [ ] Day72
+- [ ] Day73
+- [ ] Day74
+- [ ] Day75
+- [ ] Day76
+- [ ] Day77
+- [ ] Day78
+- [ ] Day79
+- [ ] Day80
+- [ ] Day81
+- [ ] Day82
+- [ ] Day83
+- [ ] Day84
+- [ ] Day85
+- [ ] Day86
+- [ ] Day87
+- [ ] Day88
+- [ ] Day89
+- [ ] Day90
+- [ ] Day91
+- [ ] Day92
+- [ ] Day93
+- [ ] Day94
+- [ ] Day95
+- [ ] Day96
+- [ ] Day97
+- [ ] Day98
+- [ ] Day99
+- [ ] Day100
