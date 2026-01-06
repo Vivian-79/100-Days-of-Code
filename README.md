@@ -26,38 +26,38 @@ Python learning process
 - [x] Day24. Files, Directories and Paths
 - [x] Day25. Working with CSV Data and the Pandas Library
 - [x] Day26. List Comprehension and NATO Alphabet
-- [ ] Day27
-- [ ] Day28
-- [ ] Day29
-- [ ] Day30
-- [ ] Day31
-- [ ] Day32
-- [ ] Day33
-- [ ] Day34
-- [ ] Day35
-- [ ] Day36
-- [ ] Day37
-- [ ] Day38
-- [ ] Day39
-- [ ] Day40
-- [ ] Day41
-- [ ] Day42
-- [ ] Day43
-- [ ] Day44
-- [ ] Day45
-- [ ] Day46
-- [ ] Day47
-- [ ] Day48
-- [ ] Day49
-- [ ] Day50
-- [ ] Day51
-- [ ] Day52
-- [ ] Day53
-- [ ] Day54
-- [ ] Day55
-- [ ] Day56
-- [ ] Day57
-- [ ] Day58
+- [x] Day27. Tkinter, *args, **kwargs and Creating GUI programs
+- [x] Day28. Tkinter, Dynamic Typing and the Pomodoro GUI Application
+- [ ] Day29. Building a Passworld Manager GUI app with Tkinter
+- [ ] Day30. Errors, Exceptions and JSON Data: Improving the Password
+- [ ] Day31. Flash Card App Capstone Project
+- [ ] Day32. Send Email(smtplib) & Manage Dates(datetime)
+- [ ] Day33. API Endppoints & API Parameters - ISS Overhead Notifier
+- [ ] Day34. API Practice - Creating a GUI Quiz App
+- [ ] Day35. Keys, Authentication & Environment Variables: Send SMS
+- [ ] Day36. Stock Trading News Alert Project
+- [ ] Day37. Habit Tracking Project: API Post Requests & Headers
+- [ ] Day38. Workout Tracking Using Google Sheets
+- [ ] Day39. Capstone Part1: Flight Deal Finder
+- [ ] Day40. Capstone Part2: Flight Club
+- [ ] Day41. Web Foundation - Introduction to HTML
+- [ ] Day42. Web Foundation - Intermediate HTML
+- [ ] Day43. Web Foundation - Introduction to CSS
+- [ ] Day44. Web Foundation - Intermediate CSS
+- [ ] Day45. Web Scraping with Beautiful Soup
+- [ ] Day46. Create a Spotify Playlist using the Musical Time Machine
+- [ ] Day47. Create an Automated Amazon Price Tracker
+- [ ] Day48. Selenium Webdriver Browser and Game Playing Bot
+- [ ] Day49. Automating Your Exercise Routine at the Gym
+- [ ] Day50. Auto Tinder Swiping Bot
+- [ ] Day51. Internet Speed Twitter Comlaint Bot
+- [ ] Day52. Instagram Follower Bot
+- [ ] Day53. Web Scraping Capstone - Data Entry Job Automation
+- [ ] Day54. Introduction to Web Development with Flask
+- [ ] Day55. HTML & URL Parsing in Flask and the Higher Lower Game
+- [ ] Day56. Rendering HTML/Static files and Using Website Tempaltes
+- [ ] Day57. Templating with Jinja in Flask Applications
+- [ ] Day58. Web Foundation Bootstrap
 - [ ] Day59
 - [ ] Day60
 - [ ] Day61
